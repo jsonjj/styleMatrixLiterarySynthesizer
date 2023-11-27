@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke", 
+    "publication_date": "2018",
+    "publisher": "No Starch Press"
+  },
+  {
+    "title": "JavaScript: The Definitive Guide", 
+    "author": "David Flanagan",
+    "publication_date": "2020",
+    "publisher": "O'Reilly Media"
+  },
+  {
+    "title": "JavaScript & jQuery",
+    "author": "Jon Duckett",
+    "publication_date": "2014",
+    "publisher": "John Wiley & Sons"
+  },
+  {
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "publication_date": "2015",
+    "publisher": "O'Reilly Media"
+  },
+  {
+    "title": "Effective JavaScript",
+    "author": "David Herman", 
+    "publication_date": "2012",
+    "publisher": "Addison-Wesley" 
+  }
+]
